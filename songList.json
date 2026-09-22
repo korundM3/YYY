@@ -1,72 +1,331 @@
 [
-    {
-        "id": 1,
-        "anime": "0-saiji Start Dash Monogatari Season 2 - Ending 1",
-        "name": "\"Beyond the Trajectory\" by Chata",
-        "video": "https://eudist.animemusicquiz.com/5u2mhk.webm",
-        "mp3": null
-    },
-    {
-        "id": 2,
-        "anime": "1-punkan dake Furete mo Ii yo... Share House no Himitsu Rule. - Ending 1",
-        "name": "\"Session Sadame Night\" by Dai Takanashi",
-        "video": "https://eudist.animemusicquiz.com/f23gq2.webm",
-        "mp3": "https://eudist.animemusicquiz.com/ne5vos.mp3"
-    },
-    {
-        "id": 3,
-        "anime": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu. - Ending 1",
-        "name": "\"Treasure Chest\" by Yuki Tanaka",
-        "video": "https://eudist.animemusicquiz.com/agsvoz.webm",
-        "mp3": "https://eudist.animemusicquiz.com/i3vp9q.mp3"
-    },
-    {
-        "id": 4,
-        "anime": "Akuyaku Reijou Tensei Ojisan - Ending 1",
-        "name": "\"Matsuken Samba II\" by Kazuhiko Inoue, M・A・O",
-        "video": "https://eudist.animemusicquiz.com/e8q47f.webm",
-        "mp3": "https://eudist.animemusicquiz.com/dje0hr.mp3"
-    },
-    {
-        "id": 5,
-        "anime": "Amagami-san Chi no Enmusubi - Ending 2",
-        "name": "\"Kamisama no Iu Toori!\" by ≠ME",
-        "video": "https://eudist.animemusicquiz.com/p4etz1.webm",
-        "mp3": "https://eudist.animemusicquiz.com/wz8z3p.mp3"
-    },
-    {
-        "id": 6,
-        "anime": "Ameku Takao no Suiri Karte - Ending 1",
-        "name": "\"will be fine\" by Gospellers feat. Anly",
-        "video": "https://eudist.animemusicquiz.com/0spf2m.webm",
-        "mp3": "https://eudist.animemusicquiz.com/iagxs7.mp3"
-    },
-    {
-        "id": 7,
-        "anime": "Ao no Exorcist: Yosuga-hen - Ending 1",
-        "name": "\"Overlap\" by Shiyui",
-        "video": "https://eudist.animemusicquiz.com/3z1d8i.webm",
-        "mp3": "https://eudist.animemusicquiz.com/162vdv.mp3"
-    },
-    {
-        "id": 8,
-        "anime": "Ao no Hako - Ending 2",
-        "name": "\"Contrast\" by TOMOO",
-        "video": "https://eudist.animemusicquiz.com/qmcqk3.webm",
-        "mp3": "https://eudist.animemusicquiz.com/l2sgqo.mp3"
-    },
-    {
-        "id": 9,
-        "anime": "Ao no Miburo - Ending 2",
-        "name": "\"Fragment\" by osage",
-        "video": "https://eudist.animemusicquiz.com/8b8iva.webm",
-        "mp3": "https://eudist.animemusicquiz.com/0yt4lm.mp3"
-    },
-    {
-        "id": 10,
-        "anime": "Arafou Otoko no Isekai Tsuuhan - Ending 1",
-        "name": "\"Aicraft\" by Kiminone",
-        "video": "https://eudist.animemusicquiz.com/ohlrpc.webm",
-        "mp3": "https://eudist.animemusicquiz.com/74jbjn.mp3"
-    }
+  {
+    "id": 1,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru - Opening 1",
+    "name": "\"Hoshi to Hana\" by Sanshuu Chuugaku Yuusha-bu",
+    "video": "https://eudist.animemusicquiz.com/0grh9w.webm",
+    "mp3": null
+  },
+  {
+    "id": 2,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru - Ending 1",
+    "name": "\"Aurora Days\" by Sanshuu Chuugaku Yuusha-bu",
+    "video": "https://eudist.animemusicquiz.com/2b3a68.webm",
+    "mp3": null
+  },
+  {
+    "id": 3,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru - Ending 2",
+    "name": "\"Inori no Uta acoustic guitar ver\" by Tomoyo Kurosawa",
+    "video": "https://eudist.animemusicquiz.com/q5djxy.webm",
+    "mp3": null
+  },
+  {
+    "id": 4,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru - Ending 3",
+    "name": "\"Inori no Uta\" by Tomoyo Kurosawa",
+    "video": "https://eudist.animemusicquiz.com/ciz2rw.webm",
+    "mp3": null
+  },
+  {
+    "id": 5,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru - Ending 4",
+    "name": "\"Aurora Days\" by Suzuko Mimori",
+    "video": "https://eudist.animemusicquiz.com/y68aef.webm",
+    "mp3": null
+  },
+  {
+    "id": 6,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru - Ending 5",
+    "name": "\"Aurora Days\" by Haruka Terui",
+    "video": "https://eudist.animemusicquiz.com/4i8zys.webm",
+    "mp3": null
+  },
+  {
+    "id": 7,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru - Insert Song",
+    "name": "\"Yuugao\" by Emi Evans",
+    "video": "https://eudist.animemusicquiz.com/168zj0.webm",
+    "mp3": null
+  },
+  {
+    "id": 8,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru - Insert Song",
+    "name": "\"Usuyukisou\" by Emi Evans",
+    "video": "https://eudist.animemusicquiz.com/v2yzuh.webm",
+    "mp3": null
+  },
+  {
+    "id": 9,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru - Insert Song",
+    "name": "\"☆☆☆☆☆☆☆☆☆☆🞱🞱🞱🞱🞱\" by Nami Nakagawa",
+    "video": "https://eudist.animemusicquiz.com/sa6d09.webm",
+    "mp3": null
+  },
+  {
+    "id": 10,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru - Insert Song",
+    "name": "\"☆🞱\" by Nami Nakagawa",
+    "video": "https://eudist.animemusicquiz.com/0fuwbr.webm",
+    "mp3": null
+  },
+  {
+    "id": 11,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru - Insert Song",
+    "name": "\"☆☆☆☆☆☆☆☆☆☆☆☆🞱🞱🞱🞱🞱\" by Nami Nakagawa",
+    "video": "https://eudist.animemusicquiz.com/63kel5.webm",
+    "mp3": null
+  },
+  {
+    "id": 12,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru - Insert Song",
+    "name": "\"☆☆☆☆☆☆☆☆☆☆☆🞱🞱🞱🞱🞱\" by Nami Nakagawa",
+    "video": "https://eudist.animemusicquiz.com/p2fgem.webm",
+    "mp3": null
+  },
+  {
+    "id": 13,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru - Insert Song",
+    "name": "\"Mankai\" by Emi Evans",
+    "video": "https://eudist.animemusicquiz.com/z7dmdc.webm",
+    "mp3": null
+  },
+  {
+    "id": 14,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou - Ending 1",
+    "name": "\"Tomodachi\" by Suzuko Mimori, Kana Hanazawa, Yumiri Hanamori",
+    "video": "https://eudist.animemusicquiz.com/ums2pf.webm",
+    "mp3": null
+  },
+  {
+    "id": 15,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou - Insert Song",
+    "name": "\"Geranium\" by Emi Evans",
+    "video": "https://eudist.animemusicquiz.com/pv6ehd.webm",
+    "mp3": null
+  },
+  {
+    "id": 16,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou - Insert Song",
+    "name": "\"Kami e no Doukei\" by Nami Nakagawa",
+    "video": "https://eudist.animemusicquiz.com/814pts.webm",
+    "mp3": null
+  },
+  {
+    "id": 17,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou - Opening 1",
+    "name": "\"Egao no Kimi e\" by Suzuko Mimori",
+    "video": "https://eudist.animemusicquiz.com/l522on.webm",
+    "mp3": null
+  },
+  {
+    "id": 18,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou - Ending 3",
+    "name": "\"Tomodachi\" by Suzuko Mimori & Kana Hanazawa",
+    "video": "https://eudist.animemusicquiz.com/ur7130.webm",
+    "mp3": null
+  },
+  {
+    "id": 19,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou - Insert Song",
+    "name": "\"Kokubou Taisou\" by Suzuko Mimori",
+    "video": "https://eudist.animemusicquiz.com/0a87cs.webm",
+    "mp3": null
+  },
+  {
+    "id": 20,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou - Insert Song",
+    "name": "\"Shoujo no Negai\" by Emi Evans",
+    "video": "https://eudist.animemusicquiz.com/380hfi.webm",
+    "mp3": null
+  },
+  {
+    "id": 21,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou - Insert Song",
+    "name": "\"Wazawai Tadashi\" by Nami Nakagawa",
+    "video": "https://eudist.animemusicquiz.com/cslp5b.webm",
+    "mp3": null
+  },
+  {
+    "id": 22,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou - Insert Song",
+    "name": "\"Hanachiru Ame\" by Mao Takeda & Natsuki Nakamoto",
+    "video": "https://eudist.animemusicquiz.com/0snvi9.webm",
+    "mp3": null
+  },
+  {
+    "id": 23,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou - Insert Song",
+    "name": "\"Hana Arashi\" by Mao Takeda & Natsuki Nakamoto",
+    "video": "https://eudist.animemusicquiz.com/bmxvjs.webm",
+    "mp3": null
+  },
+  {
+    "id": 24,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou - Opening 1",
+    "name": "\"Hanakotoba\" by Sanshuu Chuugaku Yuusha-bu",
+    "video": "https://eudist.animemusicquiz.com/jj1fr3.webm",
+    "mp3": null
+  },
+  {
+    "id": 25,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou - Ending 1",
+    "name": "\"Yuusha-tachi no Lullaby\" by Sanshuu Chuugaku Yuusha-bu",
+    "video": "https://eudist.animemusicquiz.com/9c4a9j.webm",
+    "mp3": null
+  },
+  {
+    "id": 26,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou - Insert Song",
+    "name": "\"Madobe no Akari\" by Mao Takeda",
+    "video": "https://eudist.animemusicquiz.com/on4lia.webm",
+    "mp3": null
+  },
+  {
+    "id": 27,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou - Insert Song",
+    "name": "\"Kakan\" by Emi Evans",
+    "video": "https://eudist.animemusicquiz.com/cc55mb.webm",
+    "mp3": null
+  },
+  {
+    "id": 28,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou - Insert Song",
+    "name": "\"Shinrin\" by Mao Takeda",
+    "video": "https://eudist.animemusicquiz.com/s0cybd.webm",
+    "mp3": null
+  },
+  {
+    "id": 29,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou - Insert Song",
+    "name": "\"☆☆☆☆☆☆☆🞱🞱🞱🞱🞱\" by Nami Nakagawa",
+    "video": "https://eudist.animemusicquiz.com/67fh19.webm",
+    "mp3": null
+  },
+  {
+    "id": 30,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou - Insert Song",
+    "name": "\"Kazamuki\" by Nami Nakagawa",
+    "video": "https://eudist.animemusicquiz.com/55xt8f.webm",
+    "mp3": null
+  },
+  {
+    "id": 31,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou - Opening 2",
+    "name": "\"Ashita no Hana-tachi\" by Sanshuu Chuugaku Yuusha-bu",
+    "video": "https://eudist.animemusicquiz.com/qews0u.webm",
+    "mp3": null
+  },
+  {
+    "id": 32,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou - Ending 1",
+    "name": "\"Chiheisen no Mukou e\" by Sanshuu Chuugaku Yuusha-bu",
+    "video": "https://eudist.animemusicquiz.com/badyai.webm",
+    "mp3": null
+  },
+  {
+    "id": 33,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou - Insert Song",
+    "name": "\"Hana no Mamori\" by Emi Evans",
+    "video": "https://eudist.animemusicquiz.com/qgm3fz.webm",
+    "mp3": null
+  },
+  {
+    "id": 34,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou - Insert Song",
+    "name": "\"Christmas Rose\" by Emi Evans",
+    "video": "https://eudist.animemusicquiz.com/2g3mqt.webm",
+    "mp3": null
+  },
+  {
+    "id": 35,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou - Insert Song",
+    "name": "\"Shinku no Yaiba\" by Juri Nagatsuma",
+    "video": "https://eudist.animemusicquiz.com/32w9t8.webm",
+    "mp3": null
+  },
+  {
+    "id": 36,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou - Insert Song",
+    "name": "\"Shizumi Hana no Gi\" by Mao Takeda & Natsuki Nakamoto",
+    "video": "https://eudist.animemusicquiz.com/j7p4uv.webm",
+    "mp3": null
+  },
+  {
+    "id": 37,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou - Insert Song",
+    "name": "\"Higanbana\" by Saki Nakae & Shotaro Seo",
+    "video": "https://eudist.animemusicquiz.com/35xcyg.webm",
+    "mp3": null
+  },
+  {
+    "id": 38,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou - Insert Song",
+    "name": "\"Gekka Bijin\" by Mao Takeda & Natsuki Nakamoto",
+    "video": "https://eudist.animemusicquiz.com/r95g68.webm",
+    "mp3": null
+  },
+  {
+    "id": 39,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou - Insert Song",
+    "name": "\"Ikkasensei\" by Saki Nakae & Shotaro Seo",
+    "video": "https://eudist.animemusicquiz.com/u6juih.webm",
+    "mp3": null
+  },
+  {
+    "id": 40,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou - Insert Song",
+    "name": "\"Ammobium\" by maimie",
+    "video": "https://eudist.animemusicquiz.com/ma0sa9.webm",
+    "mp3": null
+  },
+  {
+    "id": 41,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou - Insert Song",
+    "name": "\"Sashimogusa\" by Saki Nakae & Shotaro Seo",
+    "video": "https://eudist.animemusicquiz.com/xjzidk.webm",
+    "mp3": null
+  },
+  {
+    "id": 42,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou - Insert Song",
+    "name": "\"Toge to Hana\" by maimie",
+    "video": "https://eudist.animemusicquiz.com/g4ek4u.webm",
+    "mp3": null
+  },
+  {
+    "id": 43,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou - Insert Song",
+    "name": "\"Jukai no Naka e\" by Emi Evans",
+    "video": "https://eudist.animemusicquiz.com/x07jf1.webm",
+    "mp3": null
+  },
+  {
+    "id": 44,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou - Insert Song",
+    "name": "\"Ifuudoudou\" by Nami Nakagawa",
+    "video": "https://eudist.animemusicquiz.com/ak2wt1.webm",
+    "mp3": null
+  },
+  {
+    "id": 45,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou - Ending 1",
+    "name": "\"Tamashii\" by Yumiri Hanamori",
+    "video": "https://eudist.animemusicquiz.com/7qe35u.webm",
+    "mp3": null
+  },
+  {
+    "id": 46,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou - Opening 1",
+    "name": "\"Sakiwau Hana\" by Suzuko Mimori",
+    "video": "https://eudist.animemusicquiz.com/skngeq.webm",
+    "mp3": null
+  },
+  {
+    "id": 47,
+    "anime": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou - Ending 1",
+    "name": "\"Yakusoku\" by Suzuko Mimori & Kana Hanazawa",
+    "video": "https://eudist.animemusicquiz.com/7rikh6.webm",
+    "mp3": null
+  }
 ]
